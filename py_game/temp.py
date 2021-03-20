@@ -27,5 +27,7 @@ while running:
     
     screen.fill(black)
     pygame.display.flip()
+    #refreshing
+    #rendering
 
 pygame.quit()
