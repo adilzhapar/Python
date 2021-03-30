@@ -36,9 +36,9 @@ while running:
         color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
     
     pygame.draw.ellipse(screen, color, (x, y, 180, 70))
-    font = pygame.font.SysFont('Tahoma', 58, True, True)
+    font = pygame.font.SysFont('verdana', 58, True, True)
     text = font.render("DVD", True, black)
-    screen.blit(text, (x+20, y))
+    screen.blit(text, (x+22, y))
     pygame.display.update()
 
 pygame.quit()

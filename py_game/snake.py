@@ -60,7 +60,7 @@ class Game:
         if choice == 1:
             s_rect.midtop = (80, 10)
         else:
-            s_rect.midtop(360, 120)
+            s_rect.midtop = (360, 120)
         self.screen.blit(s_surf, s_rect)
     
     def game_over(self):
@@ -159,8 +159,8 @@ class Food():
                 self.food_size_x, self.food_size_y))
 
 game = Game()
-snake = Snake(game.green)
-food = Food(game.brown, game.width, game.height)
+snake = Snake(game.red)
+food = Food(game.green, game.width, game.height)
 
 game.init_and_check_errors()
 game.set_surface_and_title()
