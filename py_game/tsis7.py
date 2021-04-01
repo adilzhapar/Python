@@ -1,9 +1,9 @@
 import pygame as pg 
-from math import sin, cos, radians, pi
+from math import *
 pg.init()
 
 screen = pg.display.set_mode((850, 605))
-pg.display.set_caption("sin and cos")
+pg.display.set_caption("sin & cos")
 
 black = (0, 0, 0)
 white = (255, 255, 255)
@@ -52,12 +52,12 @@ def draw_sin_and_cos():
     for x in range(80, 800):
         sin_y1 = 240 * sin((x-80) / 120 * pi)
         sin_y2 = 240 * sin((x-79) / 120 * pi)
-        pg.draw.aaline(screen, red, (x, 285 + sin_y1), ((x+1), 285+sin_y2), 2)
+        pg.draw.aaline(screen, red, (x, 285 + sin_y1), ((x+1), 285+sin_y2))
     
-    for x in range(80, 800):
+    for x in range(80, 800, 2):
         cos_y1 = 240 * cos((x-80) / 120 * pi)
-        # cos_y2 = 240 * cos((x-81) / 120 * pi)
-        pg.draw.aaline(screen, blue, (x, 285 + cos_y1), ((x-1), 285 + cos_y1))
+        cos_y2 = 240 * cos((x-81) / 120 * pi)
+        pg.draw.aaline(screen, blue, (x, 285 + cos_y1), ((x-1), 285 + cos_y2))
     
 def draw_nums():
     nums = ['0.00', '0.25', '0.50', '0.75', '1.00']
@@ -105,7 +105,16 @@ def draw_pi():
         text = font.render(next(jai_iter), True, black)
         screen.blit(text, (i-10, 560))
             
-
+def sin_cos_text():
+    font = pg.font.SysFont('times new roman', 25, False, False)
+    sin_text = font.render('sin x', True, black)
+    cos_text = font.render('cos x', True, black)
+    screen.blit(sin_text, (535, 45))
+    screen.blit(cos_text, (530, 70))
+    pg.draw.line(screen, red, (590, 60), (640, 60), 2)
+    # draw_dashed_line(screen, blue, (590, 85), (642, 85), 2)
+    for x in range(590, 642, 4):
+        pg.draw.line(screen, blue, (x, 85), (x, 85), 3)
 
 running = True
 while running:
@@ -119,8 +128,7 @@ while running:
     draw_sin_and_cos()
     draw_nums()
     draw_pi()
+    sin_cos_text()
 
     pg.display.update()
 pg.quit()
-    
-

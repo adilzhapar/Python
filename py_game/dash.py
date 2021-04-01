@@ -39,6 +39,6 @@ while not done:
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
             done = True
-    draw_dashed_line(screen,(0,255,0),(0,0),(110,110))
+    draw_dashed_line(screen,(0,255,0),(0,20),(50,20))
         
     pygame.display.flip()
