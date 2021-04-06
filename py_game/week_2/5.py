@@ -1,6 +1,7 @@
 from random import randint
 import pygame
 pygame.init()
+# двухэтажный Surface
 
 screen = pygame.display.set_mode((400, 400))
 
