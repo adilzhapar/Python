@@ -65,7 +65,7 @@ class Game:
         self.screen.blit(s_surf, s_rect)
 
     def game_over(self):
-        go_font = pygame.font.SysFont('mpnaco', 72)
+        go_font = pygame.font.SysFont('monaco', 72)
         go_surf = go_font.render("Game Over", True, self.red)
         go_rect = go_surf.get_rect()
         go_rect.midtop = (360, 15)
