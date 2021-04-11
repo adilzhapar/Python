@@ -4,7 +4,7 @@ from pygame.constants import *
 
 pygame.init()
 width = 500
-# speed = random.randint(5, 15)
+# speed = random.randint(1, 5) - Задание TSIS
 speed = 8
 score = 0
 
@@ -50,7 +50,7 @@ class PLayer(pygame.sprite.Sprite):
 
 
 class Coins(pygame.sprite.Sprite):
-    global width, speed
+    global width
 
     def __init__(self):
         super().__init__()
@@ -59,7 +59,7 @@ class Coins(pygame.sprite.Sprite):
         self.rect = self.surf.get_rect(center=(random.randint(50, width-50), 0))
 
     def move(self):
-        self.rect.move_ip(0, speed)
+        self.rect.move_ip(0, 5)
         if self.rect.bottom > 600:
             self.rect.top = 0
             self.rect.center = (random.randint(40, width - 40), 0)
@@ -78,23 +78,20 @@ all_sprites.add(p1)
 all_sprites.add(e1)
 all_sprites.add(c1)
 
-# inc_speed = pygame.USEREVENT + 1
-# pygame.time.set_timer(inc_speed, 1000)
+
 def main():
     global speed
     fps = 60
     clock = pygame.time.Clock()
 
-    blue = (0, 0, 255)
     red = (255, 0, 0)
-    green = (0, 255, 0)
     black = (0, 0, 0)
     white = (255, 255, 255)
 
     coins_sum = 0
 
-    font = pygame.font.SysFont('Verdana', 60)
-    lil_font = pygame.font.SysFont('Verdana', 20)
+    font = pygame.font.SysFont('Times New Roman', 60)
+    lil_font = pygame.font.SysFont('Times New Roman', 20)
     game_over = font.render('Game Over', True, black)
 
     background = pygame.image.load('way.png')
@@ -109,8 +106,6 @@ def main():
 
     while 1:
         for event in pygame.event.get():
-            # if event.type == inc_speed:
-            #     speed += 0.5
             if event.type == QUIT:
                 pygame.quit()
                 sys.exit()
@@ -123,7 +118,7 @@ def main():
         else:
             speed = 8
             freeze = 0
-        # speed = random.randint(1, 15)
+        # speed = random.randint(1, 5) -- Задание TSIS
         game_score = lil_font.render('Score: ' + str(score), True, black)
         game_coin = lil_font.render('Coins: ' + str(coins_sum), True, black)
         screen.blit(background, (0, 0))
@@ -166,5 +161,6 @@ def main():
             sys.exit()
         pygame.display.update()
         clock.tick(fps)
+
 
 main()
