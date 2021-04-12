@@ -4,8 +4,7 @@ from pygame.constants import *
 
 pygame.init()
 width = 500
-# speed = random.randint(1, 5) - Задание TSIS
-speed = 8
+speed = random.randint(7, 13)
 score = 0
 
 
@@ -18,9 +17,10 @@ class Enemy(pygame.sprite.Sprite):
                                        (random.randint(40, width-40), 0))
 
     def move(self):
-        global score
+        global score, speed
         self.rect.move_ip(0, speed)
         if self.rect.bottom > 600:
+            speed = random.randint(7, 13)
             score += 1
             self.rect.top = 0
             self.rect.center = (random.randint(40, width-40), 0)
@@ -101,31 +101,17 @@ def main():
     pygame.display.set_caption('Race')
     pygame.mixer.music.load('background.wav')
     pygame.mixer.music.play(-1)
-    freeze = 0
-    freezer = 10
 
     while 1:
         for event in pygame.event.get():
             if event.type == QUIT:
                 pygame.quit()
                 sys.exit()
-            if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
-                if freezer > 0:
-                    freezer -= 1
-                    speed = 3
-        if freeze < 200:
-            freeze += 1
-        else:
-            speed = 8
-            freeze = 0
-        # speed = random.randint(1, 5) -- Задание TSIS
         game_score = lil_font.render('Score: ' + str(score), True, black)
         game_coin = lil_font.render('Coins: ' + str(coins_sum), True, black)
         screen.blit(background, (0, 0))
         scores = lil_font.render(str(score), True, black)
         coin_text = lil_font.render(str(coins_sum), True, black)
-        freezer_text = lil_font.render("Freezer: " + str(freezer), True, black)
-        screen.blit(freezer_text, (380, 30))
         screen.blit(scores, (10, 10))
         screen.blit(coin_text, (460, 10))
 
