@@ -2,6 +2,7 @@ import pygame
 import time
 import sys
 import random
+import json
 from pygame.constants import *
 
 width = 800
@@ -126,15 +127,12 @@ class Jylan:
         return False
 
     def game_over(self):
+        with open('save.json', 'w') as f:
+            f.write('')
+
         go_font = pygame.font.SysFont('Verdana', 50, True, False)
         lil_font = pygame.font.SysFont('Verdana', 30, True, False)
         go_text = go_font.render('Game Over', True, black)
-
-        if self.size > self.highscore:
-            # Написать: Новый рекорд!
-            with open('highscore.txt', 'w') as f:
-                f.write(str(self.size))
-
         go_score = lil_font.render('Score: {}'.format(self.size), True, black)
         screen.fill(red)
         screen.blit(go_text, (260, 120))
@@ -154,21 +152,64 @@ class Wall:
         pygame.draw.rect(screen, green, [self.x, self.y, 70, 70])
 
 
+def save_game():
+    x = {
+        "jylan": jylan.elements,
+        "jylan_dx": jylan.dx,
+        "jylan_dy": jylan.dy,
+        "snake_dx": snake.dx,
+        "snake_dy": snake.dy,
+        "snake": snake.elements,
+        "food_x": food.x,
+        "food_y": food.y,
+        "walls_num": len(walls),
+        "size_1": jylan.size,
+        "size_2": snake.size,
+        "speed_1": jylan.speed,
+        "speed_2": snake.speed
+    }
+    y = json.dumps(x)
+    with open('save.json', 'w') as f:
+        f.write(y)
+
+
 jylan = Jylan(50, 300, red)
 snake = Jylan(50, 400, blue)
 wall_levels = [[180, 50], [180, 500], [550, 50], [550, 500], [365, 265]]
 food_borders = [[180, 50], [180, 500], [550, 50], [550, 500], [365, 265]]
 food = Food()
 walls = []
+num_of_walls = 0
 level = 10
 done = False
 d = 10
+
+with open('save.json', 'r') as f:
+    try:
+        reader = f.read()
+        my_json = json.loads(reader)
+        jylan.elements = my_json['jylan']
+        snake.elements = my_json['snake']
+        jylan.dx = my_json['jylan_dx']
+        jylan.dy = my_json['jylan_dy']
+        snake.dx = my_json['snake_dx']
+        snake.dy = my_json['snake_dy']
+        food.x = my_json['food_x']
+        food.y = my_json['food_y']
+        num_of_walls = my_json['walls_num']
+        jylan.size = my_json['size_1']
+        snake.size = my_json['size_2']
+        jylan.speed = my_json['speed_1']
+        snake.speed = my_json['speed_2']
+    except:
+        pass
 
 while not done:
     clock.tick(jylan.speed)
     for event in pygame.event.get():
         if event.type == QUIT:
             done = True
+            save_game()
         if event.type == KEYDOWN:
             if event.key == K_ESCAPE:
                 done = True
@@ -224,6 +265,13 @@ while not done:
     snake.draw()
     food.draw()
 
+    while num_of_walls != 0:
+        if [wall_levels[0][0], wall_levels[0][1]] not in walls:
+            walls.append(Wall(wall_levels[0][0], wall_levels[0][1]))
+            wall_levels.pop(0)
+        num_of_walls -= 1
+
+
     if jylan.size == level:
         if len(wall_levels) != 0:
             level += 10
@@ -243,9 +291,17 @@ while not done:
     for wall in walls:
         if jylan.crash_wall(wall.x, wall.y):
             time.sleep(1)
+            if jylan.size > jylan.highscore:
+                # Написать: Новый рекорд!
+                with open('highscore.txt', 'w') as f:
+                    f.write(str(jylan.size))
             jylan.game_over()
         if snake.crash_wall(wall.x, wall.y):
             time.sleep(1)
+            if snake.size > snake.highscore:
+                # Написать: Новый рекорд!
+                with open('highscore.txt', 'w') as f:
+                    f.write(str(snake.size))
             snake.game_over()
 
     pygame.display.flip()
