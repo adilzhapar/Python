@@ -57,7 +57,7 @@ class Jylan:
     def __init__(self, x, y, color):
         self.size = 1
         self.elements = [[x, y]]
-        self.dx = 10
+        self.dx = 0
         self.dy = 0
         self.is_add = False
         self.speed = 20
@@ -271,15 +271,7 @@ while not done:
             wall_levels.pop(0)
         num_of_walls -= 1
 
-
-    if jylan.size == level:
-        if len(wall_levels) != 0:
-            level += 10
-            if [wall_levels[0][0], wall_levels[0][1]] not in walls:
-                walls.append(Wall(wall_levels[0][0], wall_levels[0][1]))
-                wall_levels.pop(0)
-
-    if snake.size == level:
+    if jylan.size == level or snake.size == level:
         if len(wall_levels) != 0:
             level += 10
             if [wall_levels[0][0], wall_levels[0][1]] not in walls:
