@@ -56,7 +56,6 @@ def line(screen, start, end, d, color):
             x = (-C - B * y) / A
             pygame.draw.circle(screen, color, (x, y), d)
 
-
 def rectangle(screen, start, end, d, color):
     x1 = start[0]
     y1 = start[1]
