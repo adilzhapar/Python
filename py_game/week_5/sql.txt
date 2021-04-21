@@ -1,0 +1,17 @@
+create table users(
+    username VARCHAR(255),
+    age INTEGER,
+    registration_date DATE,
+    information TEXT,
+    password VARCHAR(50)
+);
+
+#select * from users
+INSERT INTO users VALUES ('user 1', 15, '21-04-2021', 'info 1', 'pass1'),
+                        ('user 2', 17, '22-04-2021', 'info 2', 'pass 2');
+
+
+INSERT INTO users(username, age, password) VALUES ('user 1', 13, 'pass 1')
+RETURNING age;
+
+
