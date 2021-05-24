@@ -4,7 +4,7 @@ from pygame.constants import *
 
 pygame.init()
 width = 500
-speed = random.randint(7, 13)
+speed = 10
 score = 0
 
 
@@ -20,7 +20,6 @@ class Enemy(pygame.sprite.Sprite):
         global score, speed
         self.rect.move_ip(0, speed)
         if self.rect.bottom > 600:
-            speed = random.randint(7, 13)
             score += 1
             self.rect.top = 0
             self.rect.center = (random.randint(40, width-40), 0)
@@ -81,7 +80,7 @@ all_sprites.add(c1)
 
 def main():
     global speed
-    fps = 60
+    fps = 30
     clock = pygame.time.Clock()
 
     red = (255, 0, 0)
@@ -122,6 +121,7 @@ def main():
         if pygame.sprite.spritecollideany(p1, coins):
             pygame.mixer.Sound('coin.wav').play()
             coins_sum += 1
+            speed += 3
             pygame.display.update()
             for sp in coins:
                 sp.kill()

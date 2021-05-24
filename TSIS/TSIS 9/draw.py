@@ -66,13 +66,13 @@ def rectangle(screen, start, end, d, color):
     height = abs(y1 - y2)
 
     if x1 < x2 and y1 < y2:
-        pygame.draw.rect(screen, color, [x1, y1, width, height], d)
+        pygame.draw.rect(screen, color, [x1, y1, width, height])
     elif x1 < x2 and y2 < y1:
-        pygame.draw.rect(screen, color, [x1, y2, width, height], d)
+        pygame.draw.rect(screen, color, [x1, y2, width, height])
     elif x2 < x1 and y1 < y2:
-        pygame.draw.rect(screen, color, [x2, y1, width, height], d)
+        pygame.draw.rect(screen, color, [x2, y1, width, height])
     elif x2 < x1 and y2 < y1:
-        pygame.draw.rect(screen, color, [x2, y2, width, height], d)
+        pygame.draw.rect(screen, color, [x2, y2, width, height])
 
 
 def circle(screen, start, end, d, color):

@@ -174,7 +174,7 @@ def second_win():
 
 
 def new_record(x):
-    pygame.mixer.Sound('my-man.wav.wav').play()
+    pygame.mixer.Sound('my-man.wav').play()
     font = pygame.font.SysFont('Verdana', 50, True, True)
     screen.blit(background, (0, 0))
     winner_text = font.render('New Record: {}!!!'.format(x), True, purple)
@@ -298,9 +298,11 @@ while not done:
 
     if jylan.eat(food.x, food.y):
         jylan.is_add = True
+        jylan.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         food.gen()
     if snake.eat(food.x, food.y):
         snake.is_add = True
+        snake.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         food.gen()
 
     jylan.move()

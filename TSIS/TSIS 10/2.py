@@ -19,6 +19,7 @@ cur.execute(
     );
     '''
     )
+
 cur.close()
 conn.commit()
 conn.close()

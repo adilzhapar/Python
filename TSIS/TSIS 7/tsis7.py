@@ -50,8 +50,8 @@ def little_lines():
 
 def draw_sin_and_cos():
     for x in range(80, 800):
-        sin_y1 = 240 * sin((x-80) / 120 * pi)
-        sin_y2 = 240 * sin((x-79) / 120 * pi)
+        sin_y1 = 120 * sin((x-80) / 60 * pi)
+        sin_y2 = 120 * sin((x-79) / 60 * pi)
         pg.draw.aaline(screen, red, (x, 285 + sin_y1), ((x+1), 285+sin_y2))
     
     for x in range(80, 800, 2):
