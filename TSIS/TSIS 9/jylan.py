@@ -298,11 +298,11 @@ while not done:
 
     if jylan.eat(food.x, food.y):
         jylan.is_add = True
-        jylan.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+        # jylan.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         food.gen()
     if snake.eat(food.x, food.y):
         snake.is_add = True
-        snake.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
+        # snake.color = (random.randint(0, 255), random.randint(0, 255), random.randint(0, 255))
         food.gen()
 
     jylan.move()

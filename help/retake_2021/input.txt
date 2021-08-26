@@ -1,0 +1,6 @@
+5
+namsa 4
+kymbat 3
+kymbat 4
+namsa 4
+pes 2

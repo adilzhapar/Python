@@ -137,18 +137,22 @@ while True:
         if pygame.sprite.collide_rect(p1, e):
             if score != 0:
                 score -= 1
-                pygame.display.update()
                 e.kill()
-                enemies_sprite.add(Enemy())
+                m = Enemy()
+                enemies_sprite.add(m)
+                all_sprites.add(m)
+                pygame.display.update()
             else:
                 game_over()
 
     for f in food_sprite:
         if pygame.sprite.collide_rect(p1, f):
             score += 1
-            pygame.display.update()
             f.kill()
-            food_sprite.add(Food())
+            x = Food()
+            food_sprite.add(x)
+            all_sprites.add(x)
+            pygame.display.update()
 
     pygame.display.update()
     clock.tick(fps)
