@@ -1,0 +1,5 @@
+Bavaria-Center,Almaty,Al-Farabi,77
+Mercedez-club,Astana,Mangilik-el,121
+Kia-center,Almaty,Zhansugurova,33
+Volkswagen-driver,Shymkent,Baikadamova,111
+Toyota-center,Aktau,Adai,314

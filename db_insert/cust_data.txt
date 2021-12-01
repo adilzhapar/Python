@@ -1,0 +1,13 @@
+Zhaqsylyq,Ashim,Male,12000000
+Bauyrzhan,Balgaziev,Male,13000000
+Nurasyl,Turdalin,Male,14000000
+Raiymbek,Baktybaev,Male,20000000
+Adiya,Amanzhol,Female,30000000
+Ermek,Amanzholov,Male,41000000
+Lionel,Messi,Male,100000000
+Thomas,Calculus,Male,150000000
+Farid,Umarov,Male,200000000
+Angelina,Jolie,Female,230000000,
+Dwayne,Jhonson,Male,300000000
+
+

@@ -1,0 +1,3 @@
+123,Almaty,Momyshuly,33
+543,Astana,Kerei-han,99
+017,Shymkent,Mamai-han,101

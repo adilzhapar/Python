@@ -1,0 +1,12 @@
+3.0,Automatic,marin-blue,1
+2.5,Manual,black,1
+5.4,Automatic,space-grey,2
+6.5,CVT,cyan-blue,3
+6.5,Automatic,blue-white,3
+6.5,Automatic,lightning,4
+5.0,Automatic,mramor,4
+2.0,Manual,gold,5
+2.5,Manual,metall,5
+3.5,Automatic,black,6
+2.4,Robot,white,6
+3.7,Robot,red,7
