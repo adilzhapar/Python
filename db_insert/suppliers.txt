@@ -1,0 +1,4 @@
+Avenger,Almaty,Jeltoqsan,13
+Juice,Astana,Batyrbekova,100
+Rocky,Shymkent,Oralhana,07
+Savage,Pavlodar,Imanbeka,14
