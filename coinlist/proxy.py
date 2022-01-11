@@ -3,20 +3,23 @@ import csv
 pr = []
 
 def Convert(string):
-    li = list(string.split(":"))
-    return li
+    # li = list(string.split(":"))
+    return re.split(r':|@', string)
+    
 
-with open('proxy.txt', 'r') as f:
+with open('newproxy.txt', 'r') as f:
     pr = f.readlines()
-# print(*pr, sep='\n')
+
+# print(*pr)
+pr.reverse()
 for i in range(len(pr)):
     pr[i] = Convert(pr[i])
+    print(pr[i])
+
 cnt = 0 
 for i in pr:
-    if(i[0][0] == '1'):
-        print(*i)
-        cnt += 1
+    cnt += 1
 print(cnt)
-# with open('file.csv', 'w', newline='') as f:
-#     writer = csv.writer(f)
-#     writer.writerows(pr)
+with open('file_2.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerows(pr) 
