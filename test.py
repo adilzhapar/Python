@@ -1,12 +1,12 @@
-s = 'IVI'
-sum = 0
-for i in range(len(s)):
-    if s[i] == 'I':
-        if i != len(s) - 1:
-            if s[i+1] == 'V':
-                sum += 4
-            elif s[i+1] == 'X':
-                sum += 9
-            else: sum += 1
-        else: sum += 1  
-print(sum)
+d = {
+    ('Adil', 'Zhapar'): '20B8712398123',
+    ('Asdfasdf', 'Vcxvb'): '19B8712398123',
+    ('Gjosdufjlas', 'Zhapazxcvzxvr'): '20B8712398123',
+    ('Ernat', 'Zhapar'): '18B8712398123',
+}
+
+ss = list(d)
+ss.sort(key=lambda x: x[1])
+
+arr = [int(i) for i in input().split()]
+print(*arr)
