@@ -1,11 +1,11 @@
 import os, os.path
 #change dir
-os.chdir(r"C:\Users\Adil\Documents\KBTU\2 semester\PP2\Python\TSIS 5")
+os.chdir(r"C:\Users\User\Documents\KBTU\Python\TSIS\TSIS 5")
 # os.rename('p1', 'part1')
 os.rename('p2', 'p2_dir_and_files')
 
 #number of files
-dir = "C:/Users/Adil/Documents/KBTU/2 semester/PP2/Python/TSIS 5"
+dir = "C:/Users/Adil/Documents/KBTU/Python/TSIS 5"
 print('number of files:', len([name for name in os.listdir(dir) if os.path.isfile(os.path.join(dir, name))]))
 
 #number of dirs
