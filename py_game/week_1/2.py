@@ -1,5 +1,6 @@
 # рисование 
 # drawing
+from re import S
 import pygame
 
 pygame.init()
