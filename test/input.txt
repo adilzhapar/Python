@@ -1,0 +1,1452 @@
+
+$$$Complete the sentence. ______________an underground conduit for carrying off drainage water and waste matter.
+$$sewer
+$device
+$concrete
+$waste
+
+$$$ Complete the sentence. ______________the process of preserving a condition.
+$$maintenance
+$sewer
+$device
+$work
+
+$$$ Complete the sentence. ______________ a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment.
+$$device
+$decide
+$dam
+$heating
+
+$$$Complete the sentence. ______________  a structure carrying a road, path, railway, etc. across a river, road, or other obstacle.
+$$bridge
+$dam
+$overlapping
+$brick
+
+$$$Complete the sentence. ______________ a building material made from a mixture of broken stone or gravel, sand, cement, and water. 
+$$concrete
+$brick
+$cement
+$reinforced cement
+
+$$$What profession is described? A person or firm that promises to do work at a fixed rate
+$$contractor
+$mason
+$carpenter
+$trade worker
+
+$$$Choose the right variant. Who ensure that structures meet building codes, zoning regulations and requirements?
+$$construction and building inspectors
+$building engineers
+$constructing experts
+$surveying construction inspectors
+
+$$$ Choose the right variant. Which of the following are surveying instruments?
+$$total station, ranging rods, theodolite
+$theodolite, drill, wrench
+$tape measure, ranging rods, screw gun
+$sledgehammer, tachometer, drum mixer
+
+$$$What tool is described? An instrument for showing whether a surface is horizontal
+$$level
+$theodolite
+$axis
+$measuring rod
+$$$ Choose the right variant. Cadastral survey is
+$$the means by which land boundaries are established/relocated
+$ a centre line to which parts of a structure may be referred
+$ a flexible form of a ruler
+$ the power of an instrument to give a clear picture of things
+
+$$$ Choose the right variant. An instrument used for measuring angles is
+$$theodolite
+$level
+$peg
+$measuring  rods
+
+$$$Choose the right answer. The power of an instrument to give a clear picture of things
+$$resolution
+$elevation
+$axis
+$measure
+
+$$$Choose the right answer. How many types of Theodolites are there?
+$$two different kinds of theodolites: digital and non-digital.
+$three different kinds of theodolites: digital, non-digital, eye level
+$one type- electro theodolite
+$ four different kinds of theodolites: digital,  non-digital, plum-bob, survey theodolite
+
+$$$Choose the right answer. «Координантная плоскость»
+$$plane of reference
+$angular resolution
+$boundary corner
+$land survey
+
+$$$Choose the right answer. «полевая съемка»
+$$land survey
+$construction layout survey
+$leveling instrument
+$peg
+
+$$$Choose the right answer. What can help to prevent accidents at the constructions sites?
+$$ implement safety procedures
+$wear a dust mask
+$check protective clothing
+$steel-toe-boots
+
+$$$Choose the right answer. What hazards can be at the construction sites?
+$$ fallen from height, electrical shock, moving objects
+$glues, heavy metals, pesticides
+$caustic substances, disinfectants
+$earthquakes, choking,
+
+$$$Choose the right answer. What is described? Protective equipment that helps people to hold things firmly
+$$grip gloves
+$leather gloves
+$safety gloves
+$rubber gloves
+
+$$$Choose the right answer. What is design strength?
+$$the assumed load-bearing capacity of steel or concrete
+$structural pieces to support a building  
+$provide places to attach exterior and interior walls
+$to dry until solid
+
+$$$Choose the right answer. What is formwork?
+$$ mold into which concrete or another material is poured to form a building structure
+$the process of concrete becoming solid and denser, thereby taking up less space
+$to use something again
+$the use of structural pieces to support a building and provide places to attach exterior and interior walls
+
+$$$Complete the question.  Can you______ one meter of this board?
+$$ measure
+$drill
+$push
+$screw
+
+$$$Choose the right answer. Please_______a hole in this wall.
+$$drill
+$push
+$glued
+$screw
+
+$$$Find definition to the word  “support” 
+$$to keep something from falling down
+$to cause something to rotate
+$to push something horizontally
+$to change something’s direction
+$$$Choose the right answer. What is construction work?
+$$it is work performed at a construction site in erecting buildings and structures.
+$it is using of building materials at a construction site
+$construction work is divided into two groups: preparatory and principal work
+$construction work consists of a series of separate but related construction processes
+
+$$$Choose the right answer. What is a building?
+$$objects, the purpose of which is to create conditions for labor, social and cultural services for the population and storage of material values.
+$objects intended for private occupancy whether on a permanent basis or not.
+$objects which purpose is to create the conditions necessary for the implementation of the production process by performing certain technical functions.
+$objects used in manufacturing or technically productive enterprises. They are not generally or typically accessible to other than workers.
+
+$$$Choose the right answer. What is a structure?
+$$ objects which purpose is to create the conditions necessary for the implementation of the production process by performing certain technical functions.
+$objects used in manufacturing or technically productive enterprises. They are not generally or typically accessible to other than workers.
+$objects intended for private occupancy whether on a permanent basis or not.
+$objects, the purpose of which is to create conditions for labor, social and cultural services for the population and storage of material values.
+
+$$$Choose the right answer. Identify the type of bridge-cables go from one tower to another and the deck hangs from vertical suspenders (cable or rods) attached to the main cable.
+$$suspension bridge
+$arch bridge
+$beam bridge
+$truss bridge
+
+$$$Complete the sentence. An earthquake may move the arch and cause__________forces in it.
+$$tensile
+$brittleness
+$twisting
+$compression
+
+$$$Complete the sentence. The amount and character of the __________are connected with the chemical composition and physical structure of engineering materials.
+$$deformation
+$vault
+$ductile
+$strength
+
+$$$Choose the right answer. 0,28
+$$nought point twenty eight
+$zero comma twenty eight
+$oh dot twenty eight
+$below zero twenty eight
+
+$$$Choose the right answer. 1/4
+$$a quarter
+$a fourth
+$one slash four
+$fourth one
+
+$$$Choose the right answer. 1/3
+$$a third
+$one three
+$three first
+$one threed
+
+$$$Choose the right answer. Span structure
+$$пролетное строение
+$широкое строение
+$большое строение
+$прочное строение
+
+$$$Choose the right answer. Fastening slopes
+$$крепление откосов
+$гвоздимая стена
+$быстрый скат
+$ускоряющийся спуск
+
+$$$Choose the opposite of the word “strengthen” 
+$$weaken
+$natural
+$occur
+$available
+
+$$$Choose the verb 
+$$produce
+$ man-made production
+$ production
+$ product
+
+$$$Choose the right translation “промышленный рабочий” 
+$$trade worker
+$construction constructer
+$general construction
+$construction trade worker
+
+$$$Choose the right variant. Blocks of flats were built because they didn`t ____
+$$need any repair
+$need to destroy
+$need to build again
+$need many repair
+
+$$$ Choose the right translation «железобетон»   
+$$ reinforced concrete
+$ lightweight concrete
+$ concrete
+$ reinforcement
+
+$$$ Choose the right translation «закончить по графику»   
+$$to complete on schedule
+$to build a parturition
+$to reinforce masonry
+$ reinforcement
+
+$$$Choose the right translation «руководить проектом»    
+$$to supervise a project
+$to install sewerage
+$to apply finishes
+$to apply plaster
+
+$$$Choose the right translation «застеклять окно»
+$$to glaze a window
+$to install sewerage
+$in a more extended sense
+$some fields of civil engineering
+
+$$$Choose the right variant “a person whose job is to fit and repair water pipes, bathroom apparatus”
+$$plumber
+$constructor
+$contractor
+$employer
+
+$$$Choose the right variant “a person who manages”
+$$supervisor
+$plumber
+$contractor
+$employer
+
+$$$Choose the right variant.  “a person who cuts and fits glass”
+$$glazier
+$plumber
+$carpenter
+$mason
+
+$$$Choose the right variant “a person who builds or works with stone or brick”
+$$mason
+$plumber
+$plasterer
+$contractor
+
+$$$Choose the right variant “a person skilled at making and repairing wooden objects”
+$$carpenter
+$plumber
+$constructor
+$glazier
+
+$$$Choose the right translation «прокладывать канализацию»    
+$$to install sewerage
+$to relate to construction
+$to glaze a window
+$to select an occupation
+
+$$$Choose the opposite of the word «natural»    
+$$man-made
+$weaken
+$strengthen
+$indifference
+
+$$$Complete the sentence. The factors that condition the selection of ______include availability, cost and physical properties  
+$$materials for construction
+$structure material
+$man made materiality
+$artificial structure
+
+$$$Choose the opposite of the word «unobtainable»    
+$$available
+$weaken
+$strengthen
+$indifference
+
+$$$Complete the sentence. Some floor materials are easy to________
+$$maintain
+$occur 
+$strength
+$dispersed
+
+$$$Choose the right variant. In road works the Romans widely used … 
+$$timber piles
+$pillars
+$stones
+$sun-dried mud bricks
+
+$$$Choose the right variant “metal tie”	
+$$металлический анкер
+$галстук
+$узел из металла  
+$металлический галстук
+
+$$$ Choose the right variant. “two-way solid slab”
+$$ a structural slab that has load-bearing steel running in two directions
+$ double strength
+$ twice hardened slab
+$ the extent of a structure between supports
+
+$$$Complete the sentence. The more_______ we provide, the more the building structure costs
+$$insulation
+$brick
+$foundation
+$utility
+
+$$$Choose the right translation «фундамент»
+$$foundation 
+$found
+$fundamental
+$ framework
+
+$$$Choose the right translation «spare parts»
+$$запасные части
+$проектная мощность
+$пускать в эксплуатацию
+$предпусковые работы
+
+$$$Choose the right variant.  Natural stone used for … 
+$$footing and foundation
+$decoration and roof 
+$keeping out of rain
+$foundation and roof
+
+$$$Choose the right variant. What are the main parts of a building?
+$$foundation, floor, roofs
+$foundation, floor, walls
+$foundation, roofs, windows
+$foundation, walls, doors
+
+
+$$$Choose the right variant First excavation is dug for the basement, and then the foundation walls below ground level …… 
+$$are constructed
+$were constructed
+$constructed
+$was constructed
+
+$$$Choose the right variant After the war more than 90% of the old part of the city  …… in ruins
+$$was left
+$is left
+$will be left
+$left
+
+$$$What is HVAC?   
+$$heating, ventilation and air-conditioning system 
+$heater, vanish and air-conditioning system
+$high ventilation alternating current
+$high ventilated airating changes
+
+$$$Choose the right translation.  «столяр» 
+$$joiner
+$bricklayer
+$plumber 
+$constructor
+
+$$$Choose the right translation  «slater-and-tуler» 
+$$кровельщик
+$теплотехник
+$каменщик
+$электрик
+
+$$$Choose the right translation. «фанера»
+$$plywood
+$kiln
+$mortar
+$sawdust
+$$$Choose the right variant … is provided by different kinds of trees
+$$timber
+$metal
+$a brick
+$laminate
+
+$$$Choose the right variant. Marble, granite and sandstone are widely used for_____ purposes.
+$$decorative
+$housing
+$industrial
+$a vast number of
+
+$$$Choose the right variant A new road ______ the plant with the railway station will soon be built
+$$connecting 
+$connected
+$having connected 
+$being  connected
+
+$$$Choose the right variant. Concrete is________ made by thoroughly mixing different natural ingredients
+$$an artificial stone
+$broken stone
+$stone
+$small stone
+
+$$$Choose the right variant. Prestressed concrete is not … … 
+$$ a new material
+$ a building material
+$ widely spread
+$ an old material
+
+$$$Choose the right variant. «замазка» 
+$$putty
+$lump
+$quarry
+$impurity
+$$$Choose the right variant “does not become hard at once” 
+$$ не застывает сразу
+$ застывает очень быстро
+$ для застывания
+$ который не застывает
+
+$$$Choose the right variant Cement is made from_______.
+$$ limestone and clay
+$ limestone and water
+$ limestone and glass
+$ limestone and ceramics
+
+$$$Choose the right variant Limes divided into … distinct classes
+$$three
+$four
+$two
+$five
+
+$$$Choose the right variant Mortar without sand would be … 
+$$expensive
+$cheap
+$not so expensive
+$ very satisfactory
+
+$$$ Choose the synonym «build» 
+$$ construct
+$ project
+$ art works
+$ study
+
+$$$ Choose the right variant … engineers deal with machinery, mechanisms and engines
+$$ Mechanical
+$ Civil
+$ Electrical
+$ Electronic
+
+$$$Choose the right variant.  Hydraulic engineering which includes the construction of плотины and power plants.
+$$ dams
+$ plotins
+$ harbours
+$ pavements
+
+$$$Choose the right variant «главный инженер»
+$$chief engineer
+$civil engineer
+$marine engineer
+$operating engineer
+
+$$$Choose the right variant. I would prefer a regular job … to short-term.
+$$contracts
+$employee
+$working
+$employs
+
+$$$Choose the right variant  to be equipped with	
+$$быть оборудованным
+$снабжать
+$обеспечивать
+$устанавливать
+
+$$$Choose the right variant “labour term”	
+$$практика 
+$работа
+$установка
+$монтаж
+
+$$$ Choose the right variant.  Defense of graduation project.
+$$защита дипломного проекта
+$подготовка дипломного проекта
+$план проекта
+$окончательный проект
+
+$$$ Choose the right variant.  Which word is not  building material.
+$$ liberty
+$ clay
+$ break
+$ concrete
+
+$$$ Choose the right variant. Which word is not  speciality.
+$$ accounting
+$ plumber
+$ carpenter
+$ builder
+
+$$$Choose the right variant. Which word is building material.
+$$ rock
+$ stole
+$ book
+$ contract
+
+$$$Choose the right variant. A person who project buildings is called an … 
+$$engineer
+$economist
+$scientist
+$dentist
+
+$$$Choose the verb to the word  “builder”
+$$to build
+$to plan
+$to speak
+$to construct
+
+$$$Choose the right variant … people who buy a product from a shop or a company
+$$customers
+$employees
+$teacher
+$colleagues
+$$$Choose the right variant.  A person who cuts and fits glass
+$$glazier
+$production
+$mason
+$paper hanger
+
+$$$ Choose the right variant.
+… deals with the design of large buildings, roads, dams, canals
+$$ Civil engineering
+$ Electrical engineering
+$ Mechanical engineering
+$ Computers engineering
+
+$$$Choose the plural noun 
+$$goods
+$glass
+$box
+$worker
+
+$$$Choose the right translation «Армировать кладку » 
+$$to reinforce masonry
+$to apply a varnish
+$to install insulation
+$to supervise a project
+
+$$$Choose the right translation “Наносить штукатурку”
+$$to apply plaster
+$to apply finishes
+$to glaze a window
+$to select an occupation	
+$$$Choose the right translation “Нанести лаковое покрытие”
+$$to apply a varnish
+$to install insulation
+$to supervise a project
+$to install sewerage
+
+$$$Choose the right synonym to the word “manufacture”
+$$produce
+$catches
+$faces
+$misses
+
+$$$ Choose the right variant. The machine__made of metal and plastic
+$$is
+$to be
+$are
+$am
+
+$$$Choose the word which doesn`t concern to construction 
+$$halcyon
+$bricklayer
+$carpenter
+$joiner
+
+$$$Choose the word which doesn`t concern to construction 
+$$eloquence
+$builder
+$engineer
+$mason
+
+$$$ Choose the word which doesn`t concern to construction 
+$$ rebellion
+$ plasterer
+$ construction manager
+$ engineer
+
+$$$ Choose the right translation «небоскреб» 
+$$ skyscraper
+$ old building
+$ building size
+$ new building
+
+$$$ Choose the right definition to the word “surveying” 
+$$the process of a person preparing a map, plan or report
+$to build on the construction site
+$a centre line to which parts of a structure may be referred
+$the power of an instrument to give a clear picture of things
+
+$$$Choose the right translation «to fabricate»
+$$производить
+$получить
+$реагировать
+$подписать
+
+$$$Choose the right translation «трещина»
+$$crack
+$density
+$ability 
+$strength 
+
+$$$Choose the synonym «strength» 
+$$toughness
+$stiffness
+$stress
+$elastic 
+
+$$$ Choose the right answer. What is the density of materials?
+$$ Density is the amount of mass in a unit volume
+$ Density is the force per unit area that a material can support without failing
+$ Density is the ability of a material to deform without breaking
+$ Density is the resistance of a material to breaking when there is a crack
+
+$$$Choose the right verb form: When I came back, a new house  …
+$$had been built 
+$building	
+$being built	
+$built
+
+$$$Choose the right translation «building construction»  
+$$домостроение
+$строительство
+$гражданское строительство
+$проектирование зданий
+
+$$$ Choose the right translation «здание для выставки»  
+$$exhibition building
+$market  building
+$arch building
+$building construction
+
+$$$Choose the right variant In early times people constructed their homes from
+$$any material available
+$stone available
+$bricks
+$wood
+
+$$$Choose the right variant. Now the construction process is highly organized because
+$$it includes the manufactures of building products
+$it involves design professions
+$it involves different sorts of building experts
+$it was important to calculate
+
+$$$Choose the right variant «apply finishes» 
+$$отделывать поверхность
+$отделочные материалы
+$получать заказ
+$генеральный подрядчик
+
+$$$ Choose the correct definition to the “level”
+$$ an instrument for showing whether a surface is horizontal
+$ a flexible form of a ruler
+$ the power of an instrument to give a clear picture of things
+$a centre line to which parts of a structure may be referred
+
+$$$Choose the  correct translation to the “construction layout survey”		
+$$ разбивка стройплощадки
+$ полевая съемка
+$ координатная плоскость
+$ колышек
+
+$$$ Choose the correct translation to the “рулетка, измерительная лента” 
+$$ measuring tape
+$ boundary corner
+$ measuring rod
+$ leveling instrument
+
+$$$ Choose  the word that is similar in meaning to the underlined part  Wear a partial face covering that protects your mouth and nose when you sand wood
+$$ dust mask      
+$ steel-toe boots       
+$ hard hats       
+$ earplugs
+
+$$$ Choose the right translation For people interested in the many well-paying careers in (домостроение), this association offers numerous educational and career resources
+$$ building construction
+$ build	
+$ civil engineering
+$ air-conditioning
+
+$$$Choose the right variant. The company hired a contractor to (выполнить) construction work on a new building
+$$perform
+$performance
+$facility
+$utility
+
+$$$ Choose the right variant. The company seeks a building engineer to_________and serve all building equipment and systems
+$$ apply
+$ applied science
+$ application
+$ application form
+
+$$$Choose the right variant The new owner wants ___________ the building he bought
+$$ renovate
+$ renovation
+$ renovative
+$ renovational
+
+$$$Choose the right variant. With the panels made of (сбор¬ный железобетон), buildings up to 5 floors high can be constructed without columns or beams
+$$precast reinforced concrete
+$in-situ concrete
+$concrete slab
+$reinforced concrete
+
+$$$Choose the right variant. А (швеллер) is widely used in building practice as a beam
+$$channel
+$shape
+$strut
+$bolt
+
+$$$Choose the right variant. What are there man-made building materials?
+$$concrete, brick, glass, ceramics
+$clay, sand, stone, wood
+$rocks, marble, granite
+$wood, wool, straw, lime
+
+$$$ Choose the right variant  What naturally  occurring building materials do you know?
+$$ clay, sand, wood, rocks
+$ Concrete, beams
+$ Reinforced concrete
+$ brick, slab
+
+$$$ Choose the right variant  What is the longest lasting building material?
+$$ rock
+$ plastic
+$ glass
+$ synthetic
+
+$$$ Choose the right variant  What is not safety equipment?
+$$ lumber
+$ steel-toe boots
+$ goggles
+$ dust mask
+
+$$$Choose the word that is similar in meaning to the underlined part  Using some chemicals or tools requires a protective covering for your entire face
+$$face shield
+$grip gloves            
+$kneepads 
+$first aid kit 
+
+$$$Choose the word that is similar in meaning to the underlined part.  John wore small pieces of plastic so that the noise from the machinery didn’t hurt his ears
+$$earplugs  
+$dust mask      
+$face shield          
+$grip gloves
+
+$$$ Choose the definition to the “leather gloves”
+$$ a safety equipment that protects the hands
+$ a container that has items needed to treat a small injury
+$ protective eyewear that uses shatterproof glass 
+$  protective equipment that helps people to hold things firmly
+
+$$$ Choose the definition to the “safety glasses”
+$$ protective eyewear that uses shatterproof glass
+$ a container that has items needed to treat a small injury
+$ protective equipment that helps people to hold things firmly
+$ a safety equipment that protects the hands
+
+$$$ Complete the sentence. 
+Plastic formwork panels are_________, so even one person can lift them
+$$lightweight        
+$temporary
+$mold
+$prefabricated
+
+$$$ Choose the synonym «studio»    
+$$loft
+$detached house
+$impressive house
+$apartment house
+
+$$$Choose the synonym «semis»    
+$$semi-detached house
+$detached house
+$impressive house
+$apartment house
+
+$$$ Choose the synonym «resemblance»    
+$$ similarity
+$ close
+$ variety
+$ additive
+
+$$$Complete the sentence 	__________formwork systems arrive already in the necessary shapes
+$$prefabricated
+$temporary
+$mold
+$lightweight  
+
+$$$Complete the sentence Pour concrete into a __________to shape it correctly
+$$mold     
+$prefabricated
+$temporary  
+$lightweight
+
+$$$ Choose the synonym «skyscrapers»    
+$$high-rise buildings
+$construction site
+$building area
+$building
+
+$$$Choose the right translation «сносить сооружение»
+$$pull down
+$from time to time
+$in a more extended sense
+$some fields of civil engineering
+
+$$$Choose the right word combination to the word “rent”
+$$thatched roof
+$fashionable with people
+$tiled roof
+$chemical additives
+
+$$$ Choose the right word combination to the word “pull”
+$$down an old block of flats
+$fashionable with people
+$tiled roof
+$chemical additives
+
+$$$Choose the right word combination to the word “lay”
+$$tiled roof
+$fashionable with people
+$in an apartment house
+$chemical additives
+
+$$$Choose the right word combination to the word “build”
+$$a timber framed house
+$lumber
+$slabs
+$chemical additives
+
+$$$Choose the right variant. Safety equipment - …
+$$face shield, dust mask, ear plugs, kneepads
+$measure, drill, screw, lift
+$grip gloves, drill, mea sure tape
+$safety glasses, injury, hammer
+
+$$$ Choose the right variant Fasteners are…
+$$ anchors, screws, nails, bolt
+$ wall, roof, floor, door 
+$ screwdriver, jackhammer, compressor 
+$ cement mixer, circular saw, air compressor
+
+$$$Choose the right variant. Nowadays the term “…”means the art of designing and constructing
+$$engineering 
+$fastening
+$structure
+$foundation
+
+$$$Choose the right variant Engineering is divided  into many branches:…
+$$civil, mechanical, electrical, nuclear, sanitary  
+$principal, methodical
+$economical, technical
+$monolingual, trilingual, technical
+
+$$$Choose the right variant “cribbing”  
+$$возведение опалубки
+$работа печи
+$подготовительная и основная работа
+$электроинструменты
+
+$$$Choose the right variant “sanitary-engineering work”  
+$$санитарно-технические работы
+$возведение опалубки
+$ санитарная работа печи
+$санитарно-подготовительная и основная работа
+
+$$$Choose the right variant “consolidation”  
+$$The process of concrete becoming solid and denser, thereby taking up less space
+$The assumed load-bearing capacity of steel or concrete
+$The use of structural pieces to support a building and provide places to attach exterior and interior walls
+$To use something again
+
+$$$Choose the right variant “design strength” 
+$$The assumed load-bearing capacity of steel or concrete
+$ Mold into which concrete or another material is poured to form a building structure
+$ To dry until solid
+$ The process of concrete becoming solid and denser, thereby taking up less space
+
+$$$Choose the right variant “scaffolding”
+$$строительные леса
+$скафандр
+$препятствие
+$крепление откосов
+
+$$$Choose the right variant …serve to keep the walls and floors from contact with the soil
+$$ Foundations
+$ Floors
+$ Roofs
+$ Windows 
+
+$$$ Choose the right variant … divide the buildings into stories
+$$ Floors 
+$ Foundations
+$ Roofs
+$ Windows 
+
+$$$Choose the right variant …cover the  building and protect it from exposure to the weather
+$$Roofs 
+$Foundations
+$Floors
+$Windows 
+
+$$$Choose the right variant «кладка кирпича» 
+$$bricklaying
+$lay (laid) bricks
+$bricklayer
+$brickworker 
+
+$$$Choose the right variant «долговечный, прочный»
+$$durable 
+$durability
+$during
+$due to
+
+$$$ Choose the right variant «влага, влажность»
+$$ moisture
+$ evaporate 
+$ proper
+$ properly
+
+$$$ Choose the correct word. The main disadvantages of very tall buildings is:
+$$ Constant oscillations may give a nauseating feeling to the residents of the building.
+$They save space and accommodate more residents as compared to shorter buildings.
+$Taller buildings are a better option for the idea of a green building since they are more lit, airy and provide more surface area to install solar panels.
+$They are much more economical as buying a small land and constructing a tall building is more affordable than purchasing a widespread land.
+ 
+$$$Choose the opposite meaning of the word «joint»    
+$$ disconnection   
+$ appearance
+$ inappropriate
+$ horizontal
+
+$$$Choose the opposite meaning of the word «solid»
+$$fragile 
+$split  
+$durable 
+$horizontal 
+
+$$$Choose the opposite meaning of the word «mismatch»
+$$fit 
+$fragile 
+$absorb
+$split  
+
+$$$Choose the right variant «grout»
+$$a thin mortar used to fill cracks in masonry 
+$a white substance obtained by burning limestone
+$concrete floor finish containing chips of marble
+$a thin pointed piece of metal for hammering into 
+wood
+
+$$$ Choose the right variant «nail»
+$$a thin pointed piece of metal for hammering into wood
+$a wide plasterboard used to cover walls, ceilings or partitions
+$concrete floor finish containing chips of marble
+$a long flat narrow piece of wood/metal used to support plaster
+
+$$$ Choose the right variant «drywall»
+$$ a type of a board made from plaster, wood pulp, or other material, used especially to form the interior walls of houses
+$a white substance obtained by burning limestone
+$a thin mortar used to fill cracks in masonry
+$concrete floor finish containing chips of marble
+
+$$$Choose the right variant «gypsum»
+$$a very common mineral, used to make plaster of Paris
+$concrete floor finish containing chips of marble
+$a white substance obtained by burning limestone
+$a thin mortar used to fill cracks in masonry
+
+$$$ Choose the right variant « цементный раствор»
+$$grout mix
+$epoxy resin
+$translucent
+$gypsum board
+
+$$$ Choose the right translation «прозрачный»
+$$transparent	
+$translucent
+$ceramic tile
+$sandwich panel
+
+$$$ Choose the right variant «эпоксидная смола»
+$$epoxy resin
+$ceramic tile
+$grout mix
+$lime putty
+
+$$$Choose the right variant «отделочный слой»
+$$finish coat
+$grout mix
+$transparent 
+$fire resistance
+
+$$$ Choose the right variant Please_______ a hole in this wall
+$$ drill 
+$ push
+$ gypsum board
+$finish coat
+
+$$$ Choose the right variant terraced house –
+$$дома рядовой застройки
+$дом из двух квартир
+$жилой комплекс
+$многоквартирный  жилой дом
+
+$$$Choose the right variant «известковое тесто»
+$$lime putty
+$finish coat
+$suspended ceiling
+$transparent
+
+$$$ Choose the right variant «керамическая плитка»
+$$ceramic tile
+$transparent ceramic
+$suspended ceiling
+$gypsum board
+
+$$$Choose the right variant «многослойная панель»
+$$sandwich panel   
+$ceramic tile   
+$suspended ceiling 
+$grout mix  
+
+$$$Choose the right variant Gypsum plaster panels are made with…
+$$paper  
+$fiberglass  
+$clay 
+$rock  
+
+$$$Choose the right variant Finish plaster contains…
+$$gypsum and lime putty   
+$clay
+$lime
+$rock 
+
+$$$ Choose the right translation «труба отходов» 
+$$waste pipe
+$pipe
+$shutters
+$down pipe
+
+$$$Choose the right translation «ставень» 
+$$shutter
+$gutter
+$roof
+$canopy
+
+$$$Choose the right translation “навес”
+$$canopy
+$roof
+ knocker
+$arch
+
+$$$ Choose the right translation “сточная канава” 
+$$ gutter
+$ pipe
+$ down pipe
+$ waste pipe
+
+$$$ Choose the right definition «plumb bob»
+$$ is a weight attached to a line used to determine if something is perpendicular to something else
+$ is machine that moves up and down, carrying people and things between floors of a building
+$ is a solid, breakable and transparent material often used to make windows
+$is a tool that breaks up very hard surfaces like rock or pavement
+
+$$$ Choose the right definition «cinder block »
+$$ is a lightweight building block made from concrete
+$ is machine that moves up and down, carrying people and things between floors of a building
+$ is a solid, breakable and transparent material often used to make windows
+$is a tool that breaks up very hard surfaces like rock or pavement
+
+$$$ Choose the right translation «полушарие» 
+$$ hemisphere
+$ pyramid
+$ rectangular
+$ circular
+
+$$$ Choose the right variant «nought point five»  
+$$ 0,5
+$ 50
+$ 15
+$ 055
+
+$$$ Choose the right variant «673» 
+$$ six point seventy three
+$ six point seven and three
+$ six point seventy third
+$ six and seventy three point 
+
+$$$ Choose the right variant «смежный» 
+$$ adjacent
+$ pyramid
+$ rectangular
+$ circular
+
+$$$ Choose the right variant «dead loads»
+$$ вес конструкции; постоянная нагрузка
+$ высотные здания
+$ колебания
+$ прозрачный
+
+$$$ Choose the opposite meaning of the word «risk»   
+$$ safety
+$ emergence
+$ distinct
+$ precise
+
+$$$Choose the correct variant «master plan»   
+$$генеральный план
+$ мастерски выполненный план
+$ городской план
+$ чертить план
+
+$$$Choose the opposite meaning of the word «similar»   
+$$ distinct
+$ conform
+$ curved
+$ precise
+
+$$$ Choose the correct variant «soils report»   
+$$ отчеты о почвах
+$ схематическое представление
+$ ограничения
+$ реалистичная визуализация
+
+$$$ Choose the opposite meaning of the word «curved»   
+$$ linear
+$ incomplete
+$ disappearance
+$ differ
+$$$ Choose the opposite meaning of the word «incomplete»   
+$$ entire
+$ inexact
+$ disappearance
+$ differ
+
+$$$ Choose the right translation «rendering»   
+$$ реалистичная визуализация
+$ аренда
+$ ограничения
+$ чертить план
+
+$$$ Choose the right translation «посредством»   
+$$ by means of
+$ be distinct from
+$ in terms of
+$ instead of
+
+$$$ Choose the correct answer  “professional fees”
+$$ charges for services offered by architects, engineers and other consultants
+$ a guarantee issued by a company for compensation in case of damage in return for a payment
+$ a fixed charge for a clear task
+$ a time charge
+
+$$$ Choose the correct answer  “contingency” 
+$$ a sum of money withheld in case of unforeseen events
+$ lump sum
+$ a loan to buy, build or refurbish a property
+$ a time charge
+
+$$$ Choose the right translation «забивать сваю»   
+$$ drive a pile
+$ bearing pile
+$ helical pile
+$ friction pile
+
+$$$ Choose the right translation «фундамент глубокого заложения»   
+$$ deep foundation
+$ pile foundation
+$ shallow foundation
+$ floating foundation
+
+$$$ Choose the right translation «плавающий  фундамент»   
+$$ floating foundation
+$ friction foundation
+$ shallow foundation
+$ pile foundation
+
+$$$ Choose the right translation «фундамент мелкого заложения»   
+$$ shallow foundation
+$ slab-on-grade foundation
+$ spread footing
+$ floating foundation
+
+$$$ Choose the right translation
+«фундамент на естественном основании»   
+$$ spread footing
+$ slab-on-grade foundation
+$ shallow foundation
+$ floating foundation
+
+$$$ Choose the right synonym «rigid»   
+$$ stiff
+$ concrete 
+$ bolt
+$ frame
+
+$$$ Choose the right translation «деревянная балка»   
+$$ wood joist
+$ open web joist
+$ floor joist
+$ joist
+
+$$$Choose the right translation «наружная обшивка»   
+$$exterior cladding
+$laminated veneer lumber
+$floor slab
+$framing
+
+$$$ Choose the right variant. Find the definition for  “tender”
+$$document containing the price offered by a contractor for the work specified in a bill of quantities
+$somebody who prepares bills of quantities instead of the architect
+$the scheme is advertised publicly and any contractor may tender
+$the process of selecting a contractor through tender action
+
+$$$Choose the right variant “negotiated tender”
+$$a specific contractor is selected and a price for the construction work is agreed upon between the client and contractor
+$somebody who prepares bills of quantities instead of the architect
+$the scheme is advertised publicly and any contractor may tender
+$the process of selecting a contractor through tender action
+
+$$$Choose the right variant.  Find out the definition for “brick”
+$$a reddish-brown rectangular block used to build walls and houses 
+$a mixture of sand , water and cement or lime
+$white rock often used for making cement
+$brick work
+
+$$$Choose the right variant Hand tools are:
+$$hacksaw, screwdriver, hand saw, claw hammer
+$compressor, wrench, circular saw
+$cement mixer, jackhammer, sledge
+$power tool, reinforcement, steel frame
+
+$$$Choose the right variant.  «Плоскогубцы»
+$$ needle-nose pliers
+$ scissors
+$ screwdriver
+$ tool box	
+
+$$$Choose the right variant. Wood can burn but concrete cannot burn Wood is________ but concrete is ___________
+$$combustible/non-combustible
+$transparent/opaque
+$permeable/ impermeable
+$flexible/rigid
+
+$$$Choose the right variant A man can easily lift a large roll of glass wool but not a concrete beam Glass wool is______ but concrete is ________
+$$light/ heavy
+$transparent/opaque
+$permeable/ impermeable
+$flexible/rigid
+
+$$$Choose the right variant. You can see through glass but not trough wood Glass is__________ but wood is____________
+$$ transparent/opaque
+$ flexible/rigid
+$ light/ heavy
+$ permeable/ impermeable
+
+$$$Choose the right variant. What does rusting mean?
+$$when a metal becomes reddish brown because of air and water
+$to change the appearance or characteristics of something according to someone's taste or needs
+$becoming worse in quality or condition
+$being bent easily without breaking
+
+$$$Choose the right variant “alloy”
+$$a composite metal made by mixing other metals together
+$to change the appearance or characteristics of something according to someone's taste or needs
+$becoming worse in quality or condition
+$being bent easily without breaking
+
+$$$Choose the right variant “tempered glass”
+$$закалённое высокопрочное стекло
+$расплавленное стекло
+$тяжелое стекло
+$лобовое стекло
+
+$$$Choose the right variant “safety glass”	
+$$ударопрочное стекло
+$расплавленное стекло
+$лобовое стекло
+$слоистое безосколочное стекло
+
+$$$Choose the right variant “развитие и распространение мелких трещин”
+$$small localized cracks develop and propagate
+$spreading of cracks
+$cracking increase
+$developing of small cracks
+
+$$$ Choose the right variant. “разрушение материала”
+$$ failure of the material
+$ cracking of the material
+$ rusting material
+$ different material
+
+$$$Choose the right variant What are the construction equipment?
+$$Screwdriver, handsaw, open-end wrench, screw gun
+$driver, hand, saw, open-end wrench, screw gun
+$measure, rolling, bulldozer, trucks, grapple dredger, box- end wrench
+$snips, sledgehammer, screw gunner, transparent
+
+$$$Choose the right variant. Give the definition to the “flathead screwdriver”
+$$ a tool used to turn slotted screws, which have one long slot
+$ a tool used to measure how flat something is
+$hand tools with long, narrow extensions on the end, used to reach into narrow gaps
+$a portable container used to carry tools
+
+$$$ Choose the right variant Give the definition to the “needle-nose pliers”
+$$ hand tools with long, narrow extensions on the end, used to reach into narrow gaps
+$  a portable container used to carry tools
+$ a tool used to measure how flat something is
+$ a tool used to turn slotted screws, which have one long slot
+
+$$$Choose the right variant.The report he made after the delegation … our plant shows that he has finally realized the importance of the work we are doing  here
+$$had visited
+$visited
+$has visited
+$had been visited
+
+$$$Choose the right variant.The type of houses the constructors … was part of the great construction boom.
+$$were building
+$building
+$ are building
+$ build
+
+$$$Choose the right translation.  “screw gun”
+$$шуруповёрт
+$каток
+$торцевой ключ
+$землеройная машина
+
+$$$Choose the right translation. “sledgehammer”
+$$кувалда
+$шуруповёрт
+$торцевой ключ
+$землеройная машина
+
+$$$   Choose the right variant. Get the__________to remove those nails
+$$claw hammer                     
+$hand saw            
+$hacksaw
+$Philips screwdriver     
+
+$$$Complete the sentence using the correct variant. A sharp_______leaves wood with a smooth edge
+$$hand saw            
+$hacksaw           
+$Philips screwdriver         
+$slip-joint pliers
+
+$$$ Choose the right variant. That________is warm from cutting so much metal
+$$hacksaw
+$slip-joint pliers
+$Philips screwdriver         
+$claw hammer                     
+
+$$$Choose the right translation “grapple dredger”	
+$$землеройная машина
+$торцевой ключ
+$кувалда
+$торговый агент
+
+$$$ Choose the right translation “торцевой ключ”
+$$box- end wrench	
+$grapple dredger
+$edge key
+$torz key
+
+$$$Choose the right combination with the opposite meaning “Upper floor”
+$$ground floor
+$little floor
+$building floor
+$inter floor
+
+$$$Choose the right combination with the opposite meaning. “Interior partition”
+$$exterior partition
+$internal partition
+$main partition
+$upper partition
+
+$$$Choose the right combination with the opposite meaning. “Below the level”
+$$above the level
+$low the level
+$high level 
+$under the level
+
+$$$Choose the right variant “однослойная фанера”
+$$veneer
+$partition wall
+$masonry shaft
+$water cooling
+
+$$$Choose the right variant “цемент для каменной кладки”
+$$masonry cement
+$cement for stones
+$cement for walls
+$cement with rocks
+$$$Choose the right variant  “общая площадь этажа здания”
+$$gross floor-area
+$nailable walls
+$elimination of waste
+$total floor building
+
+$$$Choose the right variant. ________ builds up on roofs in the winter 
+because it does not flow like water
+$$snow
+$rain
+$puddles 
+$bricks
+
+$$$Choose the right variant. What does the roof serve for?
+$$It serves to protect the interior of the building from rain, snow, wind and cold
+$It serves for decorative purposes
+$It serves to protecting from sun
+$It is serving protecting from rain
+$$$Choose the right variant. __________is known to dry itself quickly of water
+$$the pitched roof
+$roofers materials
+$roofing 
+$flat roof
+
+$$$Choose the right variant. ______construction and ______ architecture make life more comfortable and convenient for everybody.
+$$Barrier-free, barrier-free 
+$Environmental free, barrier free
+$Non-barrier, tax-free
+$Mobility free, eco-friendly 
+ 
+ 
+
